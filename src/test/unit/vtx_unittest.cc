@@ -15,7 +15,10 @@
  * along with Cleanflight.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+<<<<<<< HEAD
 /*WSL command line test change*/
+=======
+>>>>>>> git_test
 
 #include <stdint.h>
 
