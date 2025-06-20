@@ -15,9 +15,6 @@
  * along with Cleanflight.  If not, see <http://www.gnu.org/licenses/>.
  */
 
- /*visual studio changes*/
-
-/*test change from git*/
 
 #include <stdint.h>
 
